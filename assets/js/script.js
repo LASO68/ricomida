@@ -5,22 +5,32 @@
   $(this).css({
     "color": "red",
   
+  });
+  });
+ 
+
+  $("titulotarjeta").click(function(){
+  $("this").css("desaparecer")
+  })
   
 
-  });
+$("data-bs-alert").click(Function){
+ $ (alert):("enviado")
+}
 
-  });
-  });
-  
-
-  $(document).ready(function(){
-    $("p").dblclick(function(){
-    $(this).hide("slow");
-    }); 
-    $("p").click(function(){
-        $(this).css({
-        "color": "red",
-        "font-size": "2em"
-        });
-    });
 });
+
+
+
+
+  
+
+  
+
+
+  
+
+
+
+  
+
